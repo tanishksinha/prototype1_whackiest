@@ -17,43 +17,43 @@ The Healthcare Management System is a comprehensive web application designed to 
 
 HACKATHON PROJECT
 ├── backend
-│ ├── middleware
-│ │ ├── globalErrorHandler.js
-│ │ └── hipaaCompliance.js
-│ ├── models
-│ │ ├── Appointment.js
-│ │ └── Patient.js
-│ ├── routes
-│ │ ├── appointmentRoutes.js
-│ │ └── patientRoutes.js
-│ ├── services
-│ │ ├── AppointmentService.js
-│ │ ├── AuthService.js
-│ │ ├── DocumentService.js
-│ │ └── PaymentService.js
-│ ├── uploads
-│ ├── utils
-│ │ ├── db.js
-│ │ ├── firebase.js
-│ │ └── socketUtils.js
-│ ├── .env
-│ ├── firebase-service-account.json
-│ ├── package-lock.json
-│ ├── package.json
-│ └── server.js
+│   ├── middleware
+│   │   ├── globalErrorHandler.js
+│   │   └── hipaaCompliance.js
+│   ├── models
+│   │   ├── Appointment.js
+│   │   └── Patient.js
+│   ├── routes
+│   │   ├── appointmentRoutes.js
+│   │   └── patientRoutes.js
+│   ├── services
+│   │   ├── AppointmentService.js
+│   │   ├── AuthService.js
+│   │   ├── DocumentService.js
+│   │   └── PaymentService.js
+│   ├── uploads
+│   ├── utils
+│   │   ├── db.js
+│   │   ├── firebase.js
+│   │   └── socketUtils.js
+│   ├── .env
+│   ├── firebase-service-account.json
+│   ├── package-lock.json
+│   ├── package.json
+│   └── server.js
 └── frontend
-├── components
-│ ├── AppointmentBooking.jsx
-│ ├── AuthenticationPage.jsx
-│ ├── DoctorInterface.jsx
-│ ├── PatientDashboard.jsx
-│ └── PrivateRoute.jsx
-├── redux
-│ ├── actions
-│ ├── reducer
-│ ├── slices
-│ └── store.js
-└── App.js
+    ├── components
+    │   ├── AppointmentBooking.jsx
+    │   ├── AuthenticationPage.jsx
+    │   ├── DoctorInterface.jsx
+    │   ├── PatientDashboard.jsx
+    │   └── PrivateRoute.jsx
+    ├── redux
+    │   ├── actions
+    │   ├── reducer
+    │   ├── slices
+    │   └── store.js
+    └── App.js
 
 
 
