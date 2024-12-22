@@ -7,6 +7,7 @@ const dotenv = require('dotenv');
 const hipaaComplianceMiddleware = require('./middleware/hipaaCompliance');
 const multer = require('multer'); // For handling file uploads
 const { setupRealTimeUpdates } = require('./utils/socketUtils.js');
+const globalErrorHandler = require('./middleware/globalErrorHandler');
 
 const AuthService = require('./services/AuthService');
 const authService = new AuthService();
@@ -44,6 +45,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 app.use(hipaaComplianceMiddleware);
+app.use(globalErrorHandler);
 
 // Routes
 app.get("/", (req, res) => res.send("Welcome to Healthcare Appointment System API"));
