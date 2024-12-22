@@ -115,22 +115,9 @@ HACKATHON PROJECT
 - **Manage Appointments**: Users can create, view, update, and delete appointments through the user interface.
 - **Patient Dashboard**: View and manage patient information securely.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Thanks to all contributors and participants of the hackathon.
-- Thanks to all seniors who helped us in this hackathon.
 
