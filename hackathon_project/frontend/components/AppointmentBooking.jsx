@@ -26,7 +26,7 @@ const AppointmentBooking = () => {
       if (response.ok) {
         alert('Appointment booked successfully!');
       } else {
-        alert(Error: ${data.error});
+        alert('Error: ${data.error}');
       }
     } catch (error) {
       console.error('Error booking appointment:', error);

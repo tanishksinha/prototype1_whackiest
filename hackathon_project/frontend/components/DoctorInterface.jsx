@@ -11,7 +11,7 @@ const DoctorInterface = () => {
         if (response.ok) {
           setAppointments(data);
         } else {
-          alert(Error: ${data.error});
+          alert('Error: ${data.error}');
         }
       } catch (error) {
         console.error('Error fetching appointments:', error);

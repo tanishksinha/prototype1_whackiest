@@ -1,38 +1,53 @@
-// Appointment.js
-const mongoose = require('mongoose');
+const db = require('../utils/db');
 
-// Appointment Schema
-const AppointmentSchema = new mongoose.Schema(
-  {
-    patientId: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Patient',
-      required: true,
-    },
-    doctorId: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Doctor',
-      required: true,
-    },
-    date: {
-      type: Date,
-      required: true,
-    },
-    status: {
-      type: String,
-      enum: ['scheduled', 'completed', 'cancelled'],
-      default: 'scheduled',
-    },
-    priority: {
-      type: String,
-      enum: ['normal', 'emergency'],
-      default: 'normal',
-    },
-    symptoms: [String],
-  },
-  { timestamps: true } // Adds createdAt and updatedAt fields
-);
+class Appointment {
+    static async createAppointment(data) {
+        try {
+            const appointmentRef = db.collection('appointments').doc();
+            await appointmentRef.set(data);
+            return { id: appointmentRef.id, ...data };
+        } catch (error) {
+            throw new Error(`Failed to create appointment: ${error.message}`);
+        }
+    }
 
-// Export Appointment model
-const Appointment = mongoose.model('Appointment', AppointmentSchema);
+    static async getAppointmentById(id) {
+        try {
+            const appointmentDoc = await db.collection('appointments').doc(id).get();
+            if (!appointmentDoc.exists) throw new Error('Appointment not found');
+            return { id: appointmentDoc.id, ...appointmentDoc.data() };
+        } catch (error) {
+            throw new Error(`Failed to retrieve appointment: ${error.message}`);
+        }
+    }
+
+    static async getAllAppointments() {
+        try {
+            const snapshot = await db.collection('appointments').get();
+            return snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+        } catch (error) {
+            throw new Error(`Failed to retrieve appointments: ${error.message}`);
+        }
+    }
+
+    static async updateAppointment(id, data) {
+        try {
+            const appointmentRef = db.collection('appointments').doc(id);
+            await appointmentRef.update(data);
+            return { id, ...data };
+        } catch (error) {
+            throw new Error(`Failed to update appointment: ${error.message}`);
+        }
+    }
+
+    static async deleteAppointment(id) {
+        try {
+            await db.collection('appointments').doc(id).delete();
+            return { message: `Appointment with ID ${id} deleted successfully` };
+        } catch (error) {
+            throw new Error(`Failed to delete appointment: ${error.message}`);
+        }
+    }
+}
+
 module.exports = Appointment;

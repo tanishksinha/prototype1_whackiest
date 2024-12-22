@@ -21,7 +21,7 @@ const AuthenticationPage = () => {
         alert('Login successful!');
         // Redirect to appropriate dashboard
       } else {
-        alert(Error: ${data.error});
+        alert('Error: ${data.error}');
       }
     } catch (error) {
       console.error('Error during login:', error);

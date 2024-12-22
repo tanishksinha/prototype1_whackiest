@@ -1,0 +1,283 @@
+[2024-12-22T06:48:12.040Z] Request received: GET / from IP: ::1
+[2024-12-22T06:48:12.048Z] Access denied for user role: undefined on /
+[2024-12-22T06:48:12.189Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T06:48:12.192Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T06:51:59.774Z] Request received: GET / from IP: ::1
+[2024-12-22T06:51:59.783Z] Access denied for user role: undefined on /
+[2024-12-22T06:51:59.842Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T06:51:59.845Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T06:52:00.927Z] Request received: GET / from IP: ::1
+[2024-12-22T06:52:00.929Z] Access denied for user role: undefined on /
+[2024-12-22T06:52:00.959Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T06:52:00.964Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T06:52:01.145Z] Request received: GET / from IP: ::1
+[2024-12-22T06:52:01.147Z] Access denied for user role: undefined on /
+[2024-12-22T06:52:01.183Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T06:52:01.185Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T06:52:01.363Z] Request received: GET / from IP: ::1
+[2024-12-22T06:52:01.364Z] Access denied for user role: undefined on /
+[2024-12-22T06:52:01.399Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T06:52:01.402Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T06:52:01.549Z] Request received: GET / from IP: ::1
+[2024-12-22T06:52:01.556Z] Access denied for user role: undefined on /
+[2024-12-22T06:52:01.589Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T06:52:01.591Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T06:52:01.724Z] Request received: GET / from IP: ::1
+[2024-12-22T06:52:01.725Z] Access denied for user role: undefined on /
+[2024-12-22T06:52:01.758Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T06:52:01.760Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T06:52:01.882Z] Request received: GET / from IP: ::1
+[2024-12-22T06:52:01.883Z] Access denied for user role: undefined on /
+[2024-12-22T06:52:01.918Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T06:52:01.920Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T06:52:02.050Z] Request received: GET / from IP: ::1
+[2024-12-22T06:52:02.052Z] Access denied for user role: undefined on /
+[2024-12-22T06:52:02.091Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T06:52:02.093Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T07:07:08.221Z] Request received: GET / from IP: ::1
+[2024-12-22T07:07:08.230Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:08.279Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:07:08.281Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:08.941Z] Request received: GET / from IP: ::1
+[2024-12-22T07:07:08.943Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:08.970Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:07:08.972Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:09.235Z] Request received: GET / from IP: ::1
+[2024-12-22T07:07:09.237Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:09.267Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:07:09.269Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:09.460Z] Request received: GET / from IP: ::1
+[2024-12-22T07:07:09.462Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:09.488Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:07:09.491Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:09.659Z] Request received: GET / from IP: ::1
+[2024-12-22T07:07:09.661Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:09.691Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:07:09.693Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:09.814Z] Request received: GET / from IP: ::1
+[2024-12-22T07:07:09.816Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:09.847Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:07:09.848Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:09.970Z] Request received: GET / from IP: ::1
+[2024-12-22T07:07:09.972Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:07:10.003Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:07:10.005Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:50.055Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:50.058Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:50.078Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:50.079Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:50.657Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:50.658Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:50.672Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:50.674Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:50.870Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:50.871Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:50.893Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:50.894Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.150Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:51.151Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.171Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:51.172Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.353Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:51.354Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.370Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:51.371Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.541Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:51.542Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.560Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:51.561Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.694Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:51.695Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.713Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:51.715Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.895Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:51.896Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:51.917Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:51.918Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:52.109Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:52.110Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:52.122Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:52.122Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:52.350Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:52.351Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:52.361Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:52.361Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:52.493Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:52.494Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:52.517Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:52.518Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:52.649Z] Request received: GET / from IP: ::1
+[2024-12-22T07:21:52.650Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T07:21:52.661Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T07:21:52.661Z] Error in HIPAA middleware: verifyAccess is not a function
+[2024-12-22T08:29:59.063Z] Request received: GET / from IP: ::1
+[2024-12-22T08:29:59.068Z] Request received: GET / from IP: ::1
+[2024-12-22T08:29:59.069Z] Access denied for user role: undefined on /
+[2024-12-22T08:29:59.086Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:29:59.086Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:29:59.087Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:33:11.498Z] Request received: GET / from IP: ::1
+[2024-12-22T08:33:11.509Z] Request received: GET / from IP: ::1
+[2024-12-22T08:33:11.512Z] Access denied for user role: undefined on /
+[2024-12-22T08:33:11.564Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:33:11.566Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:33:11.570Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:33:12.147Z] Request received: GET / from IP: ::1
+[2024-12-22T08:33:12.148Z] Request received: GET / from IP: ::1
+[2024-12-22T08:33:12.149Z] Access denied for user role: undefined on /
+[2024-12-22T08:33:12.169Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:33:12.170Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:33:12.171Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:41:05.084Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:05.090Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:05.091Z] Access denied for user role: undefined on /
+[2024-12-22T08:41:05.138Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:05.139Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:05.140Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:41:53.913Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:53.915Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:53.918Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:41:56.576Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:56.576Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:56.577Z] Access denied for user role: undefined on /
+[2024-12-22T08:41:56.593Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:56.594Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:56.594Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:41:57.239Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:57.239Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:57.239Z] Access denied for user role: undefined on /
+[2024-12-22T08:41:57.258Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:57.260Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:57.260Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:41:57.428Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:57.429Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:57.430Z] Access denied for user role: undefined on /
+[2024-12-22T08:41:57.465Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:57.467Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:57.468Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:41:57.939Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:57.940Z] Request received: GET / from IP: ::1
+[2024-12-22T08:41:57.941Z] Access denied for user role: undefined on /
+[2024-12-22T08:41:57.959Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:57.959Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:41:57.960Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:48:04.204Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:04.208Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:04.211Z] Access denied for user role: undefined on /
+[2024-12-22T08:48:04.232Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:04.233Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:04.234Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:48:06.259Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:06.260Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:06.260Z] Access denied for user role: undefined on /
+[2024-12-22T08:48:06.274Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:06.274Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:06.275Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:48:06.819Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:06.820Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:06.821Z] Access denied for user role: undefined on /
+[2024-12-22T08:48:06.834Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:06.835Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:06.836Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:48:07.002Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:07.003Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:07.004Z] Access denied for user role: undefined on /
+[2024-12-22T08:48:07.023Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:07.024Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:07.025Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:48:07.226Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:07.227Z] Request received: GET / from IP: ::1
+[2024-12-22T08:48:07.228Z] Access denied for user role: undefined on /
+[2024-12-22T08:48:07.240Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:07.241Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:48:07.241Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:52:40.248Z] Request received: GET / from IP: ::1
+[2024-12-22T08:52:40.251Z] Request received: GET / from IP: ::1
+[2024-12-22T08:52:40.251Z] Access denied for user role: undefined on /
+[2024-12-22T08:52:40.277Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:52:40.278Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:52:40.279Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:52:41.372Z] Request received: GET / from IP: ::1
+[2024-12-22T08:52:41.373Z] Request received: GET / from IP: ::1
+[2024-12-22T08:52:41.373Z] Access denied for user role: undefined on /
+[2024-12-22T08:52:41.394Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:52:41.395Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:52:41.395Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:52:41.699Z] Request received: GET / from IP: ::1
+[2024-12-22T08:52:41.702Z] Request received: GET / from IP: ::1
+[2024-12-22T08:52:41.704Z] Access denied for user role: undefined on /
+[2024-12-22T08:52:41.720Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:52:41.721Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:52:41.721Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:52:41.996Z] Request received: GET / from IP: ::1
+[2024-12-22T08:52:41.997Z] Request received: GET / from IP: ::1
+[2024-12-22T08:52:41.997Z] Access denied for user role: undefined on /
+[2024-12-22T08:52:42.022Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:52:42.023Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:52:42.024Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:55:04.356Z] Request received: GET / from IP: ::1
+[2024-12-22T08:55:04.364Z] Request received: GET / from IP: ::1
+[2024-12-22T08:55:04.366Z] Access denied for user role: undefined on /
+[2024-12-22T08:55:04.454Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:55:04.454Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:55:04.455Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:59:49.929Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:49.932Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:49.934Z] Access denied for user role: undefined on /
+[2024-12-22T08:59:49.956Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:49.957Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:49.957Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:59:51.123Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:51.124Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:51.124Z] Access denied for user role: undefined on /
+[2024-12-22T08:59:51.145Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:51.146Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:51.147Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:59:51.290Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:51.291Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:51.291Z] Access denied for user role: undefined on /
+[2024-12-22T08:59:51.313Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:51.313Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:51.314Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:59:56.489Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:56.490Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:56.490Z] Access denied for user role: undefined on /
+[2024-12-22T08:59:56.510Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:56.512Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:56.512Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:59:58.373Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:58.374Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:58.374Z] Access denied for user role: undefined on /
+[2024-12-22T08:59:58.389Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:58.390Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:58.390Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:59:58.616Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:58.617Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:58.617Z] Access denied for user role: undefined on /
+[2024-12-22T08:59:58.638Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:58.639Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:58.639Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:59:58.805Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:58.805Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:58.806Z] Access denied for user role: undefined on /
+[2024-12-22T08:59:58.820Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:58.821Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:58.822Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T08:59:58.996Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:58.996Z] Request received: GET / from IP: ::1
+[2024-12-22T08:59:58.997Z] Access denied for user role: undefined on /
+[2024-12-22T08:59:59.017Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:59.019Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T08:59:59.019Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T09:00:01.167Z] Request received: GET / from IP: ::1
+[2024-12-22T09:00:01.167Z] Request received: GET / from IP: ::1
+[2024-12-22T09:00:01.168Z] Access denied for user role: undefined on /
+[2024-12-22T09:00:01.182Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T09:00:01.183Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T09:00:01.183Z] Access denied for user role: undefined on /favicon.ico
+[2024-12-22T09:00:01.617Z] Request received: GET / from IP: ::1
+[2024-12-22T09:00:01.617Z] Request received: GET / from IP: ::1
+[2024-12-22T09:00:01.617Z] Access denied for user role: undefined on /
+[2024-12-22T09:00:01.634Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T09:00:01.635Z] Request received: GET /favicon.ico from IP: ::1
+[2024-12-22T09:00:01.635Z] Access denied for user role: undefined on /favicon.ico

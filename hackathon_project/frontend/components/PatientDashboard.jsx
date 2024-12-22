@@ -7,12 +7,12 @@ const PatientDashboard = () => {
   useEffect(() => {
     const fetchAppointments = async () => {
       try {
-        const response = await fetch(http://localhost:5000/appointments?patientId=${patientId});
+        const response = await fetch('http://localhost:5000/appointments?patientId=${patientId}');
         const data = await response.json();
         if (response.ok) {
           setAppointments(data);
         } else {
-          alert(Error: ${data.error});
+          alert('Error: ${data.error}');
         }
       } catch (error) {
         console.error('Error fetching patient appointments:', error);
